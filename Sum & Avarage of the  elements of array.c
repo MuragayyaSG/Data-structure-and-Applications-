@@ -1,4 +1,5 @@
-
+//Program to find sum and avarage of the elements of the array 
+//And also to find the maximum number and its position in the array
 #include<stdio.h>
 void read(int A[100],int n);
 void print(int A[100],int n);
