@@ -1,3 +1,5 @@
+//C program to find an element in an array with binary search technique
+
 #include<stdio.h>
 #include<stdlib.h>
 int binary(int a[100],int n,int key);
