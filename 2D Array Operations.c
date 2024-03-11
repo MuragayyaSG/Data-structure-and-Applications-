@@ -1,8 +1,8 @@
-/*program to find the largest element , to check the smallest element
+/*Program to find the largest element , to check the smallest element
 just change the ">" symbol to "<"*/
-/*Addditional max in each roew and each column*/
-/*Addditional min in each roew and each column*/
-//Sum of each row and to make sum of columns change m to n
+/*Finiding  maximum element in each row and each column*/
+/*Finiding minimum element in each row and each column*/
+//Finding Sum of each row and sum of each column 
 // sum of rows and column another method
 //intrechanging of rows and columns
 
