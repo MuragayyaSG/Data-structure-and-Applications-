@@ -1,3 +1,5 @@
+//C code to count Number of peoples of a particular age group
+
 #include<stdio.h>
 int read(int n);
 main()
