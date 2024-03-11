@@ -1,3 +1,4 @@
+//Program to calculate the electricity bill
 #include<stdio.h>
 #include<stdlib.h>
 main()
