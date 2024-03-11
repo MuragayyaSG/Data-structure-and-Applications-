@@ -1,3 +1,5 @@
+
+
 #include<stdio.h>
 void read(int a[10][10],int m,int n);
 void main()
