@@ -1,4 +1,5 @@
 //Program to print Star series with N rows
+//This Programs Prints 4 special star patterns 
 #include<stdio.h>
 void main()
 {
