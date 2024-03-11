@@ -1,3 +1,5 @@
+//Program to find weather the given number is a prime numbers
+
 #include <stdio.h>
 
 int main()
