@@ -1,4 +1,4 @@
-//c program to print N number of alphabets
+//c program to print N number of alphabets upper and lower case
 void print(int n);
 main()
 {
