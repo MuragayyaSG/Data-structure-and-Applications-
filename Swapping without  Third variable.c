@@ -1,3 +1,5 @@
+//C code to Swap two variables without using Third variable
+
 #include<stdio.h>
 void main()
 {
