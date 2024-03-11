@@ -1,3 +1,5 @@
+//Program to find weather the given number is special number 
+
 #include<stdio.h>
 #include<stdlib.h>
 int special(int n);
@@ -7,13 +9,7 @@ int n,s;
 scanf("%d",&n);
 if(n>0 && n<pow(10,9))
 {
-
-
     s=special(n);
-
-
-
-
 if(s==1)
     printf("Yes");
 else
