@@ -1,3 +1,5 @@
+//Program to find the final value of the total trip/yatra
+
 #include<stdio.h>
 main()
 {
