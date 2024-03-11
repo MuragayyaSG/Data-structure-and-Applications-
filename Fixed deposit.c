@@ -1,4 +1,4 @@
-
+//Program to calculate the final ammount given to customer from the bank
 #include<stdio.h>
 #include<stdlib.h>
 main()
