@@ -1,3 +1,5 @@
+//This Program shows How to Multiply Two 2D arrays and store them in an new array
+
 #include<stdio.h>
 void mul(int a[10][10],int b[10][10],int n);
 void main()
