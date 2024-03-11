@@ -1,3 +1,5 @@
+// C code to demonstrate the working of an basic calculator
+
 #include<stdio.h>
 void main()
 {
