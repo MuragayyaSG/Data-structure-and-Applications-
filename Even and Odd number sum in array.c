@@ -1,3 +1,5 @@
+//Program to find Odd and even number sum in an array
+
 #include<stdio.h>
 void read(int A[100],int n);
 void print(int A[100],int n);
