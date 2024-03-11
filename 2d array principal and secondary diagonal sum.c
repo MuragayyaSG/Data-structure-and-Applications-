@@ -1,7 +1,9 @@
+//C program to find the sum of principle diagonal elements and secondary diagonal elements
+
 #include<stdio.h>
 #include<stdlib.h>
-int psum(int a[10][10],int m,int n);
-int sdiasum(int a[10][10],int m,int n);
+int psum(int a[10][10],int m,int n);//principal diagonal sum
+int sdiasum(int a[10][10],int m,int n);//secondary diagonal sum
 void read(int a[10][10],int m,int n);
 void disp(int a[10][10],int m,int n);
 main()
