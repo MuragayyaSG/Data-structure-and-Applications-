@@ -1,4 +1,4 @@
-//
+//Program to find Perfect number
 
 #include<stdio.h>
 void perfect(int l,int k);
