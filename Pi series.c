@@ -1,7 +1,10 @@
+//This code gives the sum of n terms of the Pi series
+
 #include <stdio.h>
 #include <stdlib.h>
 float pisum(int n);
-int main() {
+int main()
+{
     int N;
     float sum;
 scanf("%d",&N);
