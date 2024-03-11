@@ -1,4 +1,4 @@
-
+// C code to find the Greatest common divisor and Least common factor of the given two numbers 
 #include<stdio.h>
 int gcdlcm(int a,int b);
 main()
