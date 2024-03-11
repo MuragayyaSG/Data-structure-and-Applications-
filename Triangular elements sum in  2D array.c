@@ -1,8 +1,12 @@
+//C program to find upper triangular elements sum with respect to principle diagonal
+//lower triangular elements sum with respect to principle diagonal
+//upper and lowee triangular elements sum with respect to secondary  diagonal
+
 #include<stdio.h>
 #include<stdlib.h>
-int usum(int a[10][10],int m,int n);
-int lsum(int a[10][10],int m,int n);
-void u_l_s(int a[10][10],int m,int n);
+int usum(int a[10][10],int m,int n);//upper triangular elements sum with respect to principle diagonal
+int lsum(int a[10][10],int m,int n);//lower triangular elements sum with respect to principle diagonal
+void u_l_s(int a[10][10],int m,int n);//upper and lowee triangular elements sum with respect to secondary  diagonal
 void read(int a[10][10],int m,int n);
 void disp(int a[10][10],int m,int n);
 void add(int a[10][10],int b[10][10],int c[10][10]int m,int n );
