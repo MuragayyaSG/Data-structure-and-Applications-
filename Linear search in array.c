@@ -1,3 +1,5 @@
+//Program to perform linear search
+
 #include<stdio.h>
 void read(int A[100],int n);
 void print(int A[100],int n);
