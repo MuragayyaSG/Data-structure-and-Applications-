@@ -1,4 +1,6 @@
-
+// This Program helps us to calculate The Mileage Reimburshment cost .
+//It takes intial and final odometer readings and calculates the amount for the distance travelled .
+//It take 18rs for on KM
 #include<stdio.h>
 #include<stdlib.h>
 float reim(float od1,float od2,);
