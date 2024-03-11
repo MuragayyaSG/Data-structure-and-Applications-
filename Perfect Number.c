@@ -1,3 +1,5 @@
+//
+
 #include<stdio.h>
 void perfect(int l,int k);
 main()
